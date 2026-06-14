@@ -23,38 +23,19 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class ArunSudhakar:
-    def __init__(self):
-        self.name        = "Arun Sudhakar"
-        self.location    = "Dublin, Ireland 🇮🇪"
-        self.degree      = "MSc Cybersecurity @ Dublin Business School"
-        self.email       = "arunsudhakar.ie@gmail.com"
+👋 Hey! I'm **Arun Sudhakar**, a Cybersecurity professional based in **Dublin, Ireland 🇮🇪**, currently completing my **MSc in Cybersecurity** at Dublin Business School.
 
-        self.stack = [
-            "Splunk", "Microsoft Sentinel",
-            "Snort", "Suricata", "Wireshark",
-            "Python", "Django", "React.js",
-            "AWS", "MySQL", "Neo4j"
-        ]
+🔐 I specialise in **SOC operations, threat detection, and security monitoring** — working hands-on with SIEM platforms like **Splunk** and **Microsoft Sentinel**, and building detection rules with **Snort** and **Suricata** to catch threats before they escalate.
 
-        self.currently_learning = [
-            "Advanced Threat Hunting",
-            "Cloud Security (AWS)",
-            "Penetration Testing",
-            "SIEM Rule Engineering"
-        ]
+🛡️ My blue team background spans **incident response, log analysis, network traffic monitoring, vulnerability assessment**, and applying the **MITRE ATT&CK** framework to real-world attack patterns. I also bring a strong **secure development** background from building and hardening full-stack web applications with Python, Django, and React.js.
 
-        self.fun_fact = (
-            "I speak 6 languages and hunt threats "
-            "in ALL of them 🔍"
-        )
+💡 I'm passionate about the intersection of **security engineering and software development** — writing code that's not just functional, but hardened against the OWASP Top 10 and beyond.
 
-    def motto(self):
-        return "Defend first. Detect always. Respond fast. 🛡️"
-```
+🌍 Fun fact: I speak **6 languages** — English, Tamil, Telugu, Kannada, Hindi, and Urdu — and I hunt threats in all of them 🔍
+
+> *"Defend first. Detect always. Respond fast." 🛡️*
 
 <br clear="right"/>
 
@@ -199,24 +180,12 @@ class ArunSudhakar:
 
 <div align="center">
 
-| 📜 Degree | 🏛️ Institution | 📅 Year | 🏅 Score |
-|:---|:---|:---:|:---:|
+| 📜 Degree | 🏛️ Institution | 📅 Year |
+|:---|:---|:---:|
 | MSc Cybersecurity | Dublin Business School, Dublin, Ireland 🇮🇪 | Apr 2025 – Apr 2026 |
-| BSc Computer Science | Adhiparasakthi College of Arts & Science, Tamil Nadu, India 🇮🇳 | Jun 2021 – Apr 2024 | 8.21 / 10 CGPA |
+| BSc Computer Science | Adhiparasakthi College of Arts & Science, Tamil Nadu, India 🇮🇳 | Jun 2021 – Apr 2024 |
 
 </div>
-
----
-
-## 📚 Currently Learning
-
-```
-🛡️  Advanced Threat Hunting    → SIEM correlation rules, behavioural analytics, threat intel feeds
-☁️  Cloud Security (AWS)       → IAM hardening, GuardDuty, Security Hub, CloudTrail analysis
-🔴  Penetration Testing        → Web app pentesting, network exploitation, CTF challenges
-📐  SIEM Rule Engineering      → Splunk SPL, KQL for Microsoft Sentinel, custom alert tuning
-🧠  MITRE ATT&CK Framework     → Mapping detections to TTPs, adversary emulation planning
-```
 
 ---
 
