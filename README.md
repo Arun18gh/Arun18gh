@@ -25,7 +25,7 @@
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-👋 Hey! I'm **Arun Sudhakar**, a Cybersecurity professional based in **Dublin, Ireland 🇮🇪**, currently completing my **MSc in Cybersecurity** at Dublin Business School.
+👋 Hey! I'm **Arun Sudhakar**, a Cybersecurity professional based in **Dublin, Ireland 🇮🇪**, completed my **MSc in Cybersecurity** at Dublin Business School.
 
 🔐 I specialise in **SOC operations, threat detection, and security monitoring** — working hands-on with SIEM platforms like **Splunk** and **Microsoft Sentinel**, and building detection rules with **Snort** and **Suricata** to catch threats before they escalate.
 
